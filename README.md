@@ -19,9 +19,6 @@ Sou desenvolvedor e estudante em **Sistemas de Informação** na Faculdade Impac
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
  
-## **Onde me encontrar**
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaiky-souza-118368221](https://www.linkedin.com/in/kaiky-souza-118368221/))
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kaikybr234@gmail.com)
  
 ## **Stats**
  
