@@ -23,7 +23,7 @@ Sou desenvolvedor e estudante em **Sistemas de Informação** na Faculdade Impac
 ## **Stats**
  
 <div align="center" style="margin: 0;">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EoKaiky&theme=dark&hide_border=true&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF" alt="mmagc GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EoKaiky&theme=dark&hide_border=true&show_icons=true&icon_color=FF0000&title_color=FFFFFF&text_color=FFFFFF" alt="EoKaiky GitHub Stats" />
 <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EoKaiky&layout=compact&theme=dark&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" />
 </div>
  
